@@ -1,0 +1,7 @@
+tensorflow
+gradio
+pillow
+numpy
+sentence-transformers
+torch
+gradio==4.44.1
