@@ -1,4 +1,4 @@
-# Ultrasound Scan Quality — Demo
+# Ultrasound Scan Quality - Demo
 
 A minimal Gradio app that flags unclear ultrasound scans using a RAG-backed quality assessment pipeline.
 
